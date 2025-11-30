@@ -1,9 +1,9 @@
 # Java_Programming
-My daily Java learning and practice code, starting from the basics and gradually moving to advanced concepts.
+My  Java learning and practice code, starting from the basics and gradually moving to advanced concepts.
 Java_Programming – My Daily Java Learning Journey
 
 Hello there! 👋
-Welcome to Java_Programming, a repository where I upload my daily Java practice programs as I learn Java from the basics all the way to advanced concepts.
+Welcome to Java_Programming, a repository where I upload my Java practice programs as I learn Java from the basics all the way to advanced concepts.
 
 This repo documents my coding progress and serves as a helpful resource for anyone learning Java.
 
